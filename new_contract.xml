@@ -1,10 +1,10 @@
 <document>
-  <section title="Parties">
-    <clause>This contract binds Alice Smith and Bob Turner as follows:</clause>
+  <section title="Trains">
+    <clause>This contract binds Michael Smith and Andrew Turner as follows:</clause>
   </section>
-  <section title="Terms">
+  <section title="Term">
     <clause>This contract is effective from the date that it is signed.</clause>
     <clause>This contract is valid in the United Kingdom.</clause>
-    <clause>This contract expires three years after the date that it is signed.</clause>
+    <clause>This contract expires ten years after the date that it is signed.</clause>
   </section>
 </document>
